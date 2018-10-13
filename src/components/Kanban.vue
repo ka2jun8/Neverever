@@ -1,8 +1,8 @@
 <template>
     <div id="kanban">
-        <board message="買った" :items="bought" class="board"></board>
-        <board message="買ってよかった" :items="good" :showMedal="true" class="board"></board>
-        <board message="買わなきゃよかった" :items="bad" :showMedal="true" class="board"></board>
+        <board message="買った" boardname="bought" :items="bought" class="board"></board>
+        <board message="買ってよかった" boardname="good" :items="good" :showMedal="true" class="board"></board>
+        <board message="買わなきゃよかった" boardname="bad" :items="bad" :showMedal="true" class="board"></board>
     </div>
 </template>
 
