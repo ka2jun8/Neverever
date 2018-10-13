@@ -1,4 +1,4 @@
-# Nevverer
+# Neverever
 
 ## how to use
 - Amazonの購入履歴から<a href="https://gist.github.com/tkrkt/4a44950385fcdfbe0b01cb3f95f7bb68">jsonをぶっこぬく</a>
